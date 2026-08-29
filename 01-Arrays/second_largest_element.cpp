@@ -1,6 +1,8 @@
 // Problem: Find the Second Largest Element in an Array
 // Difficulty: Easy
 // Approach: Single pass, track largest and second largest together
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 class Solution {
 public:
