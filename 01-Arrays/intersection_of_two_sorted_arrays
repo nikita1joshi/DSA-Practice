@@ -1,5 +1,5 @@
 //Problem: Intersection of two sorted arrays
-//Difficulty: Easy
+//Difficulty:Easy
 //Approach: Two pointers on sorted arrays
 //Time Complexity: O(n+m)
 //Space Complexity: O(1)(excluding output)
